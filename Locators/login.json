@@ -1,0 +1,5 @@
+ {
+    "userNameCSSSelector": "input[name='username']",
+    "passwordCSSSelector": "input[name='password']",
+    "loginButtonCSSSelector": "button[type='submit']"
+  }

@@ -1,0 +1,41 @@
+"PG for Girls in Brookefield","Bangalore","ITPL Main Rd near Brookefield Mall, Brookefield, Brookefield, bangalore","Women",6500
+"PG for Boys in Brookefield","Bangalore","ITPL Main Rd near Brookefield Mall , Brookefield, Brookefield, bangalore","Men",8000
+"PG for Girls in Brookefield","Bangalore","TPL Main Rd near Brookefield Mall, Brookefield, Brookefield, bangalore","Women",0
+"PG for Boys in Brookefield","Bangalore","ITPL Main Rd near Brookefield Mall, Brookefield, Brookefield, bangalore","Men",8000
+"PG for Boys in Brookefield","Bangalore","Kundalahalli near Udupi Park, Brookefield, Brookefield, bangalore","Men",7000
+"PG for Boys in Brookefield","Bangalore","Kundalahalli Main Rd, AECS Layout, near INOX Brookefield Mall, Brookefield Bengaluru, Brookefield, Brookefield, bangalore","Men",7500
+"PG for Girls in Brookefield","Bangalore","ITPL Main Rd, AECS Layout near Brookefield Mall, Brookefield, Brookefield, bangalore","Women",8000
+"PG for Boys in Brookefield","Bangalore","ITPL Main Rd, AECS Layout, Near Brookefield Mall Bangalore, Brookefield, Brookefield, bangalore","Men",8000
+"PG for Girls in Brookefield","Bangalore","ITPL Main Rd, AECS Layout, Near Hindustan Petroleum Corporation Limited, Brookefield, Brookefield, bangalore","Women",7000
+"PG for Anyone in Brookefield","Bangalore","BEML Layout, Brookefield, Brookefield, bangalore","Anyone",12000
+"PG for Girls in Brookfield","Bangalore","SHIVA SAI Ladies Pg Kundalahalli, Brookefield Bengaluru, Karnataka, Brookfield, Brookfield, bangalore","Women",11000
+"PG for Girls in Brookefield","Bangalore","AECS Layout, Marathahalli,Sri Durga Ladies PG Brookfield, Brookefield, Brookefield, bangalore","Women",8000
+"PG for Anyone in Marathahalli","Bangalore","AECS Layout, Near Brookefield Mall Bangalore or hidustan petrolium pump, Marathahalli, Marathahalli, bangalore","Anyone",8000
+"PG for Boys in Brookefield","Bangalore","Kundalahalli Colony Near Maruti Suzuki TRUE VALUE (Kalyani Motors, Brookefield, Brookefield, bangalore","Men",6500
+"PG for Girls in Kundanahalli","Bangalore","AECS Layout, near Oven Story, Kundanahalli, Kundanahalli, bangalore","Women",7500
+"PG for Girls in Brookefield","Bangalore","Sivalayam temple #110/20,benaka Towers Near SLV ROYAL PG FOR LADIES, Brookefield, Brookefield, bangalore","Women",8000
+"PG for Girls in Brookefield","Bangalore","benaka Towers residency near SLV ROYAL PG FOR LADIES, Brookefield, Brookefield, bangalore","Women",7000
+"PG for Boys in Brookefield","Bangalore","benaka Towers residency near SLV ROYAL PG FOR LADIES, Brookefield, Brookefield, bangalore","Men",9500
+"PG for Anyone in Kundalahalli","Bangalore","Main Rd, Gate, Kundahalli Main Road, Lakshminarayana Pura, Kundalahalli, Brookefield, Kundalahalli, Kundalahalli, bangalore","Anyone",7500
+"PG for Girls in Brookefield","Bangalore","ITPL Main Rd, opposite Mysore Cafe, BEML Layout, Brookefield, , Brookefield, Brookefield, bangalore","Women",7500
+"PG for Boys in Brookefield","Bangalore","14 near Kalyani motors,, near Subhalakshmi Restaurant, Brookefield, Brookefield, bangalore","Men",7000
+"PG for Girls in Brookefield","Bangalore","ITPL Main Road, Kundalahalli, Near Brookefield Hospital, Brookefield, Brookefield, bangalore","Women",10000
+"PG for Girls in Brookefield","Bangalore","Kundalahalli, near Shri Nagalingeshwara Swamy Temple, Brookefield, Brookefield, bangalore","Women",7000
+"PG for Girls in Kundalahalli","Bangalore","ITPL Main Rd near Shri Nagalingeshwara Swamy Temple, Kundalahalli, Kundalahalli, bangalore","Women",12000
+"PG for Boys in Brookefield","Bangalore","ITPL Main Rd, Near Naga Lingeshwara Temple, Brookefield, Brookefield, bangalore","Men",6500
+"PG for Boys in Brookefield","Bangalore","ITPL Main Road, Near Brookefield Hospital , Brookefield , Brookefield , bangalore","Men",8000
+"PG for Girls in Brookefield","Bangalore","60ft road AECS Layout Kundanahalli near Orbis Restaurant - Brookefield, Brookefield, Brookefield, bangalore","Women",8000
+"PG for Anyone in Brookefield","Bangalore","Kundalahalli Near Brigade Tech Gardens, Brookefield, Brookefield, bangalore","Anyone",8500
+"PG for Girls in Brookefield","Bangalore","AECS Layout, near IRA CAFE, Brookefield, Brookefield, bangalore","Women",10000
+"PG for Girls in Brookefield","Bangalore","2nd cross ITPL Main Rd Raod, Kundalahalli near Naga Lingeshwara Temple, Brookefield, Brookefield, bangalore","Women",5500
+"PG for Girls in Brookefield","Bangalore","ITPL Main Raod, Near Naga Lingeshwara Temple, Brookefield, Brookefield, bangalore","Women",5500
+"PG for Boys in Brookefield","Bangalore","ITPL Main Rd, Kundalahalli, near Sri Naga Lingeshwara Temple , Brookefield, Brookefield, bangalore","Men",6500
+"PG for Boys in Kundalahalli","Bangalore","2nd cross road near Naga Lingeshwara Temple, Kundalahalli, Kundalahalli, bangalore","Men",7000
+"PG for Boys in Brookefield","Bangalore","AECS Layout near McDonald's, Brookefield, Brookefield, bangalore","Men",7000
+"PG for Anyone in Brookefield","Bangalore","Kundalahalli near Government Primary School, Brookefield, Brookefield, bangalore","Anyone",13000
+"PG for Boys in Brookefield","Bangalore","house number 26 anna reddy layout IPTL main roda near Titan watch showroom- Harsha Creations, Brookefield, Brookefield, bangalore","Men",10000
+"PG for Girls in Brookefield","Bangalore","AECS Layout Near Kanti Sweets, Brookefield, Brookefield, bangalore","Women",7000
+"PG for Anyone in Brookefield","Bangalore","AECS Layout near Reliance marketing , Brookefield , Brookefield , bangalore","Anyone",7500
+"PG for Girls in Marathahalli","Bangalore","Kundalahalli, ITPL Main Rd, near Brigade Tech Gardens, Marathahalli, Marathahalli, bangalore","Women",12500
+"PG for Anyone in Brookefield","Bangalore","AECS Layout near RBL Bank Ltd, Brookefield, Brookefield, bangalore","Anyone",17000
+"Connect Co-Living","Bangalore","Kundalahalli Main Road, Marathahalli","Men",
