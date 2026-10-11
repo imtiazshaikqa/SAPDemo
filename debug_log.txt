@@ -1,0 +1,43 @@
+[2026-10-10T08:42:12.863Z] [DebugLogger] Debug logging enabled
+  {
+    "logFile": "f:\\ERProject\\debug_log.txt",
+    "backupFile": "f:\\ERProject\\debug_log.bak"
+  }
+
+[2026-10-10T08:42:12.894Z] [Extension] Extension activating...
+  {
+    "workspacePath": "f:\\ERProject",
+    "debugMaxLines": 500
+  }
+
+[2026-10-10T08:42:12.919Z] [SecretService] Initialized successfully
+
+[2026-10-10T08:42:12.956Z] [npmFinder] Starting to find npm executable...
+
+[2026-10-10T08:43:21.500Z] [npmFinder] Success: Found npm in PATH, version: 10.9.2
+
+[2026-10-10T08:43:21.501Z] [npmFinder] Executing command: npm config get prefix
+
+[2026-10-10T08:43:28.610Z] [npmFinder] Successfully got npm prefix: C:\Users\Imtiaz\AppData\Roaming\npm
+
+[2026-10-10T08:43:28.647Z] [PluginManager] Loading plugins from file
+
+[2026-10-10T08:43:28.666Z] [PluginManager:WARN] Plugin config file not found: C:\Users\Imtiaz\.claude\plugins\installed_plugins.json
+
+[2026-10-10T08:43:28.672Z] [HooksConfigManager] Workspace path set to: f:\ERProject
+
+[2026-10-10T08:43:28.680Z] [npmFinder] Starting to find npm executable...
+
+[2026-10-10T08:43:28.816Z] [BackupManager] Workspace storage path: c:\Users\Imtiaz\AppData\Roaming\Code\User\workspaceStorage\9ea40702b0bf3c20e7efa8c3466681f6\lkbaba.claude-code-chatui
+
+[2026-10-10T08:43:28.817Z] [BackupManager] Backup repo path: c:\Users\Imtiaz\AppData\Roaming\Code\User\workspaceStorage\9ea40702b0bf3c20e7efa8c3466681f6\lkbaba.claude-code-chatui\backups\.git
+
+[2026-10-10T08:43:31.309Z] [BackupManager] Backup repository already exists
+
+[2026-10-10T08:43:34.105Z] [npmFinder] Success: Found npm in PATH, version: 10.9.2
+
+[2026-10-10T08:43:34.109Z] [npmFinder] Executing command: npm config get prefix
+
+[2026-10-10T08:43:39.372Z] [npmFinder] Successfully got npm prefix: C:\Users\Imtiaz\AppData\Roaming\npm
+
+[2026-10-10T08:43:39.388Z] [utils] npm prefix found at: C:\Users\Imtiaz\AppData\Roaming\npm
